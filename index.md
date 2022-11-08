@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: none
 title: Your Babysitter in Zug
 ---
 
 # Your Babysitter in Zug
 
-![image]({{ site.static_files }}/images/photo.png)
+![Photo of Anna](/images/photo.png)
 
 ---
 
