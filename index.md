@@ -1,5 +1,5 @@
 ---
-layout: none
+# layout: home
 title: Your Babysitter in Zug
 ---
 
