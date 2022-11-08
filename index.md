@@ -3,7 +3,11 @@ layout: default
 title: Your Babysitter in Zug
 ---
 
-<h1>Your Babysitter in Zug</h1>
+# Your Babysitter in Zug
+
+![image]({{ site.static_files }}/images/photo.png)
+
+---
 
 Do you need to go shopping, visit the beauty salon, see a movie or simply meet with a friend, while you kids are having a wonderful time reading books, making origami or building with Lego? 
 
@@ -16,7 +20,7 @@ I love small kids and they always connect to me well.
 I have completed a "Babysitting & Child Care Training" course by Red cross, and I practiced two full days at Kita.
 
 I am at my second year at the Kanti Zug.
-I am fluent in German (Swiss German), English and Russian, and speak French well too! <i></i>Helping with Languages - Easy!</i>
+I am fluent in German (Swiss German), English and Russian, and speak French well too! _Helping with Languages - Easy!_
 
 I love writing stories and have also won competitions on the subject.
 Do you want you kids to be excited about reading? I would be there to help!
