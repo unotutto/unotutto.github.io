@@ -31,3 +31,7 @@ I could offer babysitting or homework support services on Wednesday afternoons, 
 
 Looking forward to meet you and your little ones!
 Anna
+
+---
+
+E-Mail:  anna.babysitting.zug@gmail.com 
