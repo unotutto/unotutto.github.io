@@ -1,11 +1,8 @@
 ---
-# layout: home
 title: Your Babysitter in Zug
 ---
 
 # Your Babysitter in Zug
-
-![Photo of Anna](/assets/images/photo.png)
 
 ---
 
