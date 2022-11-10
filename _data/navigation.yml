@@ -1,8 +1,8 @@
-- name: Your Babysitter in Zug
+- name: [EN] Your Babysitter in Zug
   link: /
 
-- name: Babysitterin in Zug
-  link: /babysitter-zug-de
+- name: [DE] Babysitterin in Zug
+  link: /babysitterin-zug-de
 
-- name: Веселые занятия с вашими детьми
+- name: [RU] Веселые занятия с вашими детьми
   link: /babysitter-zug-ru
