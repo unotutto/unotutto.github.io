@@ -1,8 +1,8 @@
-- name: "[EN] Your babysitter in Zug"
+- name: "Your babysitter in Zug"
   link: /babysitter-zug-en
 
-- name: "[DE] Ihre Babysitterin in Zug"
+- name: "Ihre Babysitterin in Zug"
   link: /babysitter-zug-de
 
-- name: "[RU] Занятия с детьми в Цуге"
+- name: "Занятия с детьми в Цуге"
   link: /babysitter-zug-ru
