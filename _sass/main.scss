@@ -9,15 +9,15 @@
     text-align: center;
 }
 
-img {
-    border-radius: 50px;
-}
-
 ul {
     padding-inline-start: 20px;
 }
 
-svg {
+img.photo {
+    border-radius: 50px;
+}
+
+img.qr {
     height: 90%;
     width: 90%;
     max-width: 250px;

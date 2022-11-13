@@ -18,7 +18,7 @@
       <header>
         <h1 class="center"><a href="{{ "/" | absolute_url }}">{{ site.title | default: "not specified 'site.title'" }}</a></h1>
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" class="center"/>
+          <img src="{{site.logo | relative_url}}" alt="Logo" class="photo center"/>
         {% endif %}
         <p class="center">{{ site.description | default: "not specified 'site.description" }}</p>
 
@@ -30,7 +30,7 @@
       {{ content }}
 
       <div class="center">
-        {% include qr-vCard.svg %}
+        <img src="/_includes/qr-vCard.png" alt="vCard" class="qr center"/>
       </div>
 
       </section>
