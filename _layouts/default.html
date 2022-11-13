@@ -17,11 +17,10 @@
     <div class="wrapper">
       <header>
         <h1 class="center"><a href="{{ "/" | absolute_url }}">{{ site.title | default: "not specified 'site.title'" }}</a></h1>
-        <p class="center">{{ site.description | default: "not specified 'site.description" }}</p>
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" class="center"/>
         {% endif %}
-
+        <p class="center">{{ site.description | default: "not specified 'site.description" }}</p>
 
         {% include navigation.html %}
 
