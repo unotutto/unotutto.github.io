@@ -24,10 +24,6 @@
 
         <p>{{ site.description | default: "not specified 'site.description" }}</p>
 
-        {% if site.email %}
-        <p class="view"><a href="mailto:{{ site.email }}">E-Mail <small>{{ site.email }}</small></a></p>
-        {% endif %}
-
         {% include navigation.html %}
 
       </header>
