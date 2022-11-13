@@ -1,5 +1,5 @@
 ---
-title: Basbysitterin in Zug
+title: Babysitterin in Zug
 ---
 
 # Your Babysitter in Zug

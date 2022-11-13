@@ -1,7 +1,21 @@
+<!-- links to all pages -->
 <ul dir="auto">
   {% for item in site.data.navigation %}
   <li>
-    <a href="{{ item.link }}" {% if page.url == item.link %}class="current-page"{% endif %}>{{ item.name }}</a>
+    <a href="{{ item.link }}" {% if page.url==item.link %}class="current-page" {% endif %}>{{ item.name }}</a>
   </li>
   {% endfor %}
+</ul>
+
+<!-- contact information -->
+<ul class="downloads">
+  <li><strong>Phone:</strong>
+    <pre>+41 78 239 3914</pre>
+  </li>
+  <li>
+    <a aria-label="Chat on WhatsApp" href="https://wa.me/41782393914?text=I%27m%20interested%20to%20hire%20you.">
+      <img alt="Chat on WhatsApp" src="/assets/images/WhatsAppButtonWhiteSmall.svg" />
+    </a>
+  </li>
+  <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
 </ul>
