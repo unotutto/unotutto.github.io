@@ -1,6 +1,6 @@
 ---
 title: Ihre Babysitterin in Zug
-lang: de-DE
+lang: de
 ---
 
 # Ihre Babysitterin in Zug

@@ -1,6 +1,6 @@
 ---
 title: Your Babysitter in Zug
-lang: en-US
+lang: en
 ---
 
 # Your Babysitter in Zug
