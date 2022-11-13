@@ -24,5 +24,3 @@ Ich kann Babysitter-/Hausaufgabenhilfe am Mittwochnachmittag, Freitagabend und a
 Freue mich auf Sie und Ihre Kinder!
 
 Anna
-
----
