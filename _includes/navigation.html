@@ -2,7 +2,7 @@
 <ul dir="auto">
   {% for item in site.data.navigation %}
   <li>
-    <a href="{{ item.link }}" {% if page.url==item.link %}class="current-page" {% endif %}>{{ item.name }}</a>
+    <a href="{{ item.link }}" {% if page.url contains item.link %}class="current-page" {% endif %}>{{ item.name }}</a>
     <!-- {{ page.url }} -->
   </li>
   {% endfor %}
