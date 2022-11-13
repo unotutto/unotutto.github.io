@@ -1,11 +1,8 @@
 title: Anna
 description: "Your babysitter in Zug, 🧑‍🍼"
+email: anna.babysitting.zug@gmail.com
 logo: /assets/images/photo.png
 google_analytics: G-SNQQ1SBB6S
-_root: unotutto.github.io
-
-github:
-  is_user_page: false
 
 # theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0

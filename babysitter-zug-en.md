@@ -1,5 +1,6 @@
 ---
 title: Your Babysitter in Zug
+lang: en-US
 ---
 
 # Your Babysitter in Zug
@@ -27,8 +28,7 @@ Math and computer science for primary school or any other kind of homework - als
 I could offer babysitting or homework support services on Wednesday afternoons, Friday evenings and during the weekend.
 
 Looking forward to meet you and your little ones!
+
 Anna
 
 ---
-
-E-Mail:  anna.babysitting.zug@gmail.com 
