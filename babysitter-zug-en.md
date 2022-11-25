@@ -1,6 +1,8 @@
 ---
 title: Your Babysitter in Zug
 lang: en
+redirect_from:
+- /en
 ---
 
 # Your Babysitter in Zug

@@ -1,30 +1,32 @@
 <!-- links to all pages -->
-<ul dir="auto">
-  {% for item in site.data.navigation %}
-  <li>
-    <a href="{{ item.link }}" {% if page.url contains item.link %}class="current-page" {% endif %}>{{ item.name }}</a>
-    <!-- {{ page.url }} -->
-  </li>
-  {% endfor %}
-</ul>
+{% for item in site.data.navigation %}
+<p class="view">
+  <span class="fi fi-{{ item.flag }}"></span>
+  <a href="{{ item.link }}" {% if page.url contains item.link %}class="current-page" {% endif %}>{{ item.name }}</a>
+</p>
+{% endfor %}
 
 <hr>
 
-<!-- contact information -->
-<p class="view">
-  <a aria-label="Chat on WhatsApp" href="https://wa.me/41782393914?text=I%27m%20interested%20to%20hire%20you." target="_blank">
-    <img alt="Chat on WhatsApp" src="/assets/images/WhatsAppButtonGreenSmall.svg" />
-  </a>
-</p>
+<div style="overflow: auto;">
+  <div class="split left">
+    <div class="center">
+      <a href="/assets/anna-babysitter-in-zug.vcf">
+        <img src="/assets/images/qr-codes/qr-vcard-default.png" alt="vCard" class="qr center"/>
+      </a>
+    </div>
+  </div>
 
-{% if site.email %}
-<p class="view"><a href="mailto:{{ site.email }}?subject=I%27m%20interested%20to%20hire%20you.">E-Mail <small>{{ site.email }}</small></a></p>
-{% endif %}
+  <div class="split right">
+    <p class="view"><a style="text-decoration: underline" href="mailto:{{ site.email }}?subject=I%27m%20interested%20to%20hire%20you."><small>{{ site.email }}</small></a></p>
+    <p class="view">
+      <a aria-label="Chat on WhatsApp" href="https://wa.me/41782393914?text=I%27m%20interested%20to%20hire%20you." target="_blank">
+        <img alt="Chat on WhatsApp" src="/assets/images/WhatsAppButtonGreenSmall.svg" />
+      </a>
+    </p>
+    <p class="view"><a href="sms://+41782393914">SMS <small>+41 78 239 3914</small></a></p>
+    <p class="view"><a href="tel:+41782393914">Call <small>+41 78 239 3914</small></a></p>
+  </div>
+</div>
 
-<p class="view"><a href="sms://+41782393914">Send a SMS <small>+41 78 239 3914</small></a></p>
-<p class="view"><a href="tel:+41782393914">Call <small>+41 78 239 3914</small></a></p>
-
-
-{% if false %}
-<p class="view"><a href="{% link contact-me.md %}">Contact Info <small>Save my v-Card.</small></a></p>
-{% endif %}
+<br>

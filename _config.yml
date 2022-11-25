@@ -1,5 +1,5 @@
 title: Anna
-description: "Your babysitter in Zug, 🧑‍🍼"
+description: "Your babysitter in Zug"
 email: anna.babysitting.zug@gmail.com
 logo: /assets/images/photo.png
 site: www.baby-sitter-zug.site
@@ -19,6 +19,7 @@ theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
 
 plugins:
-- jekyll-seo-tag
+- jekyll-redirect-from
 - jekyll-remote-theme
+- jekyll-seo-tag
 - jekyll-sitemap

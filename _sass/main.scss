@@ -1,3 +1,18 @@
+/* override some of theme defaults */
+
+p,
+ul,
+ol,
+table,
+pre,
+dl {
+    margin: 0 0 5px;
+}
+
+header {width: 320px; }
+
+/* own styles */
+
 .current-page {
     font-weight: bold;
 }
@@ -10,7 +25,7 @@
 }
 
 ul {
-    padding-inline-start: 20px;
+    padding-inline-start: 10px;
 }
 
 img.photo {
@@ -18,10 +33,66 @@ img.photo {
 }
 
 img.qr {
-    height: 80%;
-    width: 80%;
-    max-width: 200px;
-    max-height: 200px;
-    border: 6px solid darkslategrey;
-    border-radius: 6px;
+    // height: 80%;
+    // width: 80%;
+    max-width: 100px;
+    max-height: 100px;
+    border: 4px solid darkslategrey;
+    border-radius: 4px;
+}
+
+/* selection from https://github.com/lipis/flag-icons */
+
+.fib {
+    background-size: contain;
+    background-position: 50%;
+    background-repeat: no-repeat;
+}
+
+.fi {
+    background-size: contain;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    position: relative;
+    display: inline-block;
+    width: 1.33333333em;
+    line-height: 1em;
+}
+
+.fi:before {
+    content: '\00a0';
+}
+
+.fi.fis {
+    width: 1em;
+}
+
+.fi-ch {
+    background-image: url(/assets/images/flags/4x3/ch.svg);
+}
+
+.fi-de {
+    background-image: url(/assets/images/flags/4x3/de.svg);
+}
+
+.fi-fr {
+    background-image: url(/assets/images/flags/4x3/fr.svg);
+}
+
+.fi-gb {
+    background-image: url(/assets/images/flags/4x3/gb.svg);
+}
+
+.fi-ru {
+    background-image: url(/assets/images/flags/4x3/ru.svg);
+}
+
+/* split */
+.left {
+    float: left;
+    min-width: 128px;
+}
+
+.right {
+    float: left;
 }
