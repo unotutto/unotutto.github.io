@@ -15,11 +15,11 @@ I would be delighted to help!
 
 ---
 
-My name is Anna and I'm 13.
+My name is Anna and I'm 14.
 I love small kids and they always connect to me well.
 I have completed a "Babysitting & Child Care Training" course by Red cross, and I practiced two full days at Kita.
 
-I am at my second year at the Kanti Zug.
+I am at my second year at the Gymnasium.
 I am fluent in German (Swiss German), English and Russian, and speak French well too! _Helping with Languages - Easy!_
 
 I love writing stories and have also won competitions on the subject.
