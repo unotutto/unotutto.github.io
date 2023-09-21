@@ -2,7 +2,7 @@ title: Anna
 description: "Your babysitter in Zug"
 email: anna.babysitting.zug@gmail.com
 logo: /assets/images/photo.png
-site: www.baby-sitter-zug.site
+site: www.babysitter-zug.ch
 google_analytics: G-SNQQ1SBB6S
 
 # seo-tag
@@ -13,7 +13,7 @@ author:
 social:
   name: Anna
   links:
-    - https://www.baby-sitter-zug.site
+    - https://www.babysitter-zug.ch
 
 theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
