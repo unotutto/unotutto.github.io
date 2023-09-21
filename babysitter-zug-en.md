@@ -32,3 +32,7 @@ I could offer babysitting or homework support services on Wednesday afternoons, 
 Looking forward to meet you and your little ones!
 
 Anna
+
+---
+
+**How about celebration party for your little ones?** -> See what I offer on [Party](/party-en)
