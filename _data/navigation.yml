@@ -1,10 +1,10 @@
+- name: "Ihre Babysitterin in Zug"
+  link: /
+  flag: de
+
 - name: "Your babysitter in Zug"
   link: /en
   flag: gb
-
-- name: "Ihre Babysitterin in Zug"
-  link: /de
-  flag: de
 
 - name: "Занятия с детьми в Цуге"
   link: /ru
