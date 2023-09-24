@@ -2,7 +2,7 @@
 title: Занятия с детьми в Цуге
 lang: ru
 redirect_from:
-- /ru
+# - /ru
 - /ru-school
 ---
 

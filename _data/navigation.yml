@@ -1,11 +1,11 @@
 - name: "Your babysitter in Zug"
-  link: /babysitter-zug-en
+  link: /en
   flag: gb
 
 - name: "Ihre Babysitterin in Zug"
-  link: /babysitter-zug-de
+  link: /de
   flag: de
 
 - name: "Занятия с детьми в Цуге"
-  link: /babysitter-zug-ru
+  link: /ru
   flag: ru

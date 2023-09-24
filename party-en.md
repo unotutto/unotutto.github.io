@@ -3,7 +3,7 @@ title: Celebration, Party in Zug
 description: Offerings to organize a party for children in or around Zug, incluling Halloween, Christmas, Easter and birthday party
 lang: en
 redirect_from:
-- /en
+- /en_party
 ---
 
 # Celebration or Party for your children

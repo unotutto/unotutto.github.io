@@ -1,8 +1,8 @@
 ---
 title: Ihre Babysitterin in Zug
 lang: de
-redirect_from:
-- /de
+# redirect_from:
+# - /de
 ---
 
 # Ihre Babysitterin in Zug
